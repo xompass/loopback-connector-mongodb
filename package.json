@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-mongodb",
+  "name": "@xompass/loopback-connector-mongodb",
   "version": "5.5.0",
   "description": "The official MongoDB connector for the LoopBack framework.",
   "engines": {
